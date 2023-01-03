@@ -9,6 +9,8 @@ redirect_from:
 
 ## Locations of key files/directories
 
+[[3,2]](https://kegell.github.io/files/[3,2].txt)
+
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
