@@ -7,7 +7,17 @@ redirect_from:
   - /markdown.html
 ---
 
+All codes are listed in Magma format.  
+[[3,1,2]](https://kegell.github.io/files/[3,1,2].txt)
+
+
+
+
+
+
 ## Locations of key files/directories
+
+
 
 [[3,2]](https://kegell.github.io/files/[3,2].txt)
 
